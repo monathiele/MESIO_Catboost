@@ -2,6 +2,7 @@
 ## MESIO Summer School 2021 competition by Jordi Moragas
 
 https://mesioupcub.masters.upc.edu/en/xv-summer-school-2022/courses/applied-machine-learning-to-solve-real-life-problems
+
 This contest was be used to evaluate the performance of the models developed by the students of the course "Applied Machine Learning to solve Real Life Problems".
 
 A rating (classification) model should be constructed on the variable "TARGET" that takes values 0 (not default) or 1 (default, which is bankruptcy status after 1 year). Each column represents a characteristic (ratio) of the company and can contain missing values. There are both numerical and categorical variables.
