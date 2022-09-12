@@ -1,5 +1,5 @@
 # MESIO_catboost
-## MESIO Summer School 2021 competition by Jordi Moragas
+## MESIO Summer School 2021 competition 
 
 https://mesioupcub.masters.upc.edu/en/xv-summer-school-2022/courses/applied-machine-learning-to-solve-real-life-problems
 
