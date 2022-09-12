@@ -19,3 +19,10 @@ To make predictions, take the test data, which no longer has the "TARGET" column
 
 Finally, for each "ID" of the submission there is a corresponding "ID" in the test set. You must put the default probability in the "Pred" column (a real number between 0 and 1). It is not necessary the calibration of the probability, only the sorting matters
 
+## Some Output Examples:
+
+Plotting SHAP values for Feature Importance:
+
+![image](https://user-images.githubusercontent.com/97023507/189594814-03fa3f38-3ebd-4e77-91c2-225902c48ce7.png)
+![image](https://user-images.githubusercontent.com/97023507/189595229-b124a01a-2961-4cda-b8c1-f45f712e6115.png)
+
